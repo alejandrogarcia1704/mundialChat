@@ -12,7 +12,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto flex items-center justify-between p-4">
 
           <h1 className="font-bold text-xl">
-            Sistema de Mensajería
+            Mensajeria TH
           </h1>
 
           <div className="flex gap-2">
